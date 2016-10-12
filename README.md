@@ -15,3 +15,9 @@ def main():
 It will create the destination directory for you if it doesn't already exist.
 
 It copies one directory to the other, and then makes changes in the destination directory. So don't worry about it messing up the original folder.
+
+##Dependencies
+Oh yeah, you'll need Pillow: a fork of PIL (Python imaging library) So...
+```
+$ pip install Pillow
+```
